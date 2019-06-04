@@ -1,1 +1,6 @@
 ECHO is on.
+ introduction to programing
+ the comand of write aprogram
+ creat and delate folder using CMD
+ creat file using CMD
+ 
